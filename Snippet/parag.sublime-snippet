@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+		<body>
+			<p><b>Lorem</b></p>
+		</body>
+]]></content>
+	<tabTrigger>parag</tabTrigger>
+</snippet>

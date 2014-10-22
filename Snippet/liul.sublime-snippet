@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+		<li>
+				<ul>
+					<li></li>
+					<li></li>
+					<li></li>
+					<li></li>
+					<li></li>
+				</ul>
+			</li>
+]]></content>
+	<tabTrigger>liul</tabTrigger>
+</snippet>
