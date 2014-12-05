@@ -1,0 +1,53 @@
+body {
+
+	margin:0px;
+}
+
+
+.anime {
+
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	background: blue;
+	-webkit-animation: square;
+	-webkit-animation-duration: 2s;
+}
+
+@-webkit-keyframes square{
+
+0% {
+	
+	top: 0px;
+	left:0px;
+	bottom: none;
+	right:0px;
+}
+
+30% {
+
+	right:0px;
+	top: 0px;
+	left: none;
+	bottom: none;
+
+
+}
+
+50% {
+	
+	left: none;
+	bottom:0px;
+	right: 0px;
+	top: none;
+}
+
+100% {
+	
+	right: none;
+	top: none;
+	left:0px;
+	bottom: 0px;
+}
+
+}
