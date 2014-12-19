@@ -1,0 +1,35 @@
+body {
+
+	background: green;
+}
+
+.container {
+
+
+}
+.box {
+
+	font-family: :sans-serif;
+	color:black;
+	width: 47%;
+	margin: 1.5%;
+	background-color: white;
+	float:left;
+
+}
+
+.box h1 {
+
+	width:100%;
+	margin:0px;
+	padding: 5px;
+	box-sizing:border-box;
+	color:white;
+	background: black;
+}
+
+.box p {
+
+	padding: 10px;
+	box-sizing:border-box;
+}
